@@ -1,1 +1,2 @@
 Meu primeiro arquivo usando Git.
+Adicionando mais conteúdo ao arquivo.
