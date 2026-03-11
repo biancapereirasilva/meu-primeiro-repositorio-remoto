@@ -1,2 +1,3 @@
 Segundo arquivo usando git.
 Alterações feitas no segundo arquivo.
+Alterei.
