@@ -1,2 +1,3 @@
+Segundo editado. 
 Segundo arquivo usando git.
-Alterações feitas no segundo arquivo.
+Alterações feitas no segundo arquivo
